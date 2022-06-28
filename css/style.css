@@ -269,6 +269,8 @@ nav .navbar-brand span{
 .welcome h3{
 	margin: 40px 0px 0px 0px;
 	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 10px;
 }
 .welcome h2{
 	margin: 0px 0px 40px 0px;
@@ -596,7 +598,7 @@ a.readmore:hover{
 .all_contant{
 	background-image: linear-gradient(#485491, #06af97);
 	color: #fff;
-	padding: 100px 0
+	padding: 60px 0;
 }
 
 .footer-item p{
